@@ -1,0 +1,10 @@
+host_exchage_cs/bin/Release/db.db3
+host_exchage_cs/bin/Release/ssl.cert
+host_exchage_cs/bin/Release/Test.json
+host_exchage_cs/bin/Release/Log.json
+
+host_exchage_cs/bin/Release/ticket_clients/Lisa/db.db3
+host_exchage_cs/bin/Release/ticket_clients/Bart/db.db3
+host_exchage_cs/bin/Release/ticket_clients/Bart/ProxyLog.json
+host_exchage_cs/bin/Release/ticket_clients/Lisa/ProxyLog.json
+host_exchage_cs/bin/build.zip
